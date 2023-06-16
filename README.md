@@ -2,11 +2,15 @@
 
 **Création de la communauté francophone “OpenLLM France 🇫🇷” pour développer un giga modèle de langage ou Large Language Model (LLM) souverain et Open Source**
 
+## A propos
+
 À tous les passionnés des Large Language Models (LLM) et autres IA génératives,
 
 Comme vous, nous sommes convaincus que les LLM représentent l'avenir de la compréhension du langage. Ces modèles constituent des gisements de productivité stratégiques pour les entreprises et auront des impacts sur la vie de nos concitoyens. C’est pourquoi, nous croyons fermement qu'il est crucial de promouvoir la souveraineté, la transparence et l'ouverture dans ce domaine stratégique.
 
 A cette fin nous lançons un appel à tous les acteurs francophones qui s'intéressent, testent, expérimentent et souhaitent mettre en œuvre les LLM maîtrisés et ouverts à nous rejoindre au sein de cette communauté d'intérêt.
+
+## Objectifs
 
 L'objectif de cette communauté est de rassembler les forces vives du domaine, d'échanger des connaissances et de collaborer activement pour développer un LLM français, souverain, réellement Open Source reposant sur des corpus de données d’apprentissage publics et ouverts, des algorithmes documentés pour en assurer l’explicabilité et proposant une licence d’utilisation libre, non restrictive.
 
@@ -25,6 +29,8 @@ Par ailleurs, nous vous invitons à participer au premier meetup **de la communa
 L’avenir de la France et de l’Europe se dessine aussi dans les lignes de code et les algorithmes. Face à la domination des géants américains et chinois en matière d’IA, l’Europe et la France en particulier, ont une carte cruciale à jouer. Une IA souveraine constitue le commun numérique indispensable pour assurer son acceptabilité et ainsi devenir un levier puissant pour stimuler notre économie, en créant des emplois de qualité et en soutenant la compétitivité de nos industries stratégiques.
 
 **Il est donc temps d’unir nos efforts et nos expériences pour se doter d’une IA de confiance afin de renforcer notre autonomie stratégique dans le domaine des IA.**
+
+## Nous rejoindre
 
 Pour poursuivre nos échanges, nous vous invitons à rejoindre le serveur Discord OpenLLM-France 🇫🇷 ➡️ 
 [https://discord.gg/RESJWdBmQ](https://discord.gg/RESJWdBmQ)
