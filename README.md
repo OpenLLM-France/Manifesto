@@ -26,5 +26,5 @@ L’avenir de la France et de l’Europe se dessine aussi dans les lignes de cod
 
 **Il est donc temps d’unir nos efforts et nos expériences pour se doter d’une IA de confiance afin de renforcer notre autonomie stratégique dans le domaine des IA.**
 
-Pour poursuivre nos échanges, nous vous invitons à rejoindre le serveur Discord OpenLLM-France 🇫🇷
+Pour poursuivre nos échanges, nous vous invitons à rejoindre le serveur Discord OpenLLM-France 🇫🇷 ➡️ 
 [https://discord.gg/RESJWdBmQ](https://discord.gg/RESJWdBmQ)
