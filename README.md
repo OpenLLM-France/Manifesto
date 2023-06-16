@@ -1,6 +1,6 @@
 # Manifesto
 
-**Création de la communauté francophone “OpenLLM France 🇫🇷” pour développer un giga modèle de langage ou Large Language Model (LLM) souverain et Open Source**
+**Création de la communauté francophone “OpenLLM France 🇫🇷” pour développer un giga modèle de langage ou Large Language Model (LLM) souverain et Open Source.**
 
 ## A propos
 
