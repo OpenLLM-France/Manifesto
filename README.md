@@ -18,7 +18,7 @@ Chercheurs au sein de la recherche académique, acteurs du code et des algorithm
 
 Nous sommes convaincus que la collaboration et la transparence sont essentielles pour garantir la maîtrise et l'éthique des LLM.
 
-Pour rejoindre notre communauté et participer à cette aventure passionnante, veuillez nous contacter à l'adresse suivante : [contact@openllm-france.fr](mailto:contact@openllm-france.fr) la page [github]([https://github.com/OpenLLM-France/](https://github.com/OpenLLM-France/Manifesto) temporaire de préconfiguration de cette communauté.
+Pour rejoindre notre communauté et participer à cette aventure passionnante, veuillez nous contacter à l'adresse suivante : [contact@openllm-france.fr](mailto:contact@openllm-france.fr) la page github temporaire de préconfiguration de cette communauté ➡️ [https://github.com/OpenLLM-France/Manifesto](https://github.com/OpenLLM-France/Manifesto).
 
 Par ailleurs, nous vous invitons à participer au premier meetup **de la communauté francophone “OpenLLM France 🇫🇷” le mercredi 28 juin 2023 à la Villa Good Tech au 37, rue Pierre Poli à Issy Les Moulineaux sur l’Île Saint Germain.** Les informations concernant l'évènement seront communiquées ultérieurement.
 
