@@ -32,5 +32,5 @@ L’avenir de la France et de l’Europe se dessine aussi dans les lignes de cod
 
 ## Nous rejoindre
 
-Pour poursuivre nos échanges, nous vous invitons à rejoindre le serveur Discord OpenLLM-France 🇫🇷 ➡️ 
-[https://discord.gg/98yvQ67EZF] (https://discord.gg/98yvQ67EZ)
+Pour poursuivre nos échanges, nous vous invitons à rejoindre le serveur 
+[![](https://dcbadge.vercel.app/api/server/hsp8BpRkY?compact=true&style=flat)](https://discord.gg/hsp8BpRkY)
