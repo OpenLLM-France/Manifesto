@@ -32,12 +32,11 @@ Par ailleurs, nous vous invitons à participer au premier meetup **de la communa
 
 🗂️ Ordre du jour proposé (Work in Progress)
 
-Présentation des présents (1-2 min chacun en fonction du nombre de présent) —> 30 min
-Présentation de l'initiative OpenLLM France 🇫🇷 (Michel-Marie) —> 10 min
-Brainstorming autour de l'organisation de l'initiative (Pierre-Julien) —> 20 min
-Intervenant d’un sachant au niveau Académique (à définir) —> 20 min
-Proposition de Barcamp / Hackathon (Michel-Marie) —> 10 min
-* L'idée serait faire un vendredi-samedi-dimanche en mode hackathon pour disposer un 1 démonstrateur à définir d'ici fin juillet
+* Présentation des présents (1-2 min chacun en fonction du nombre de présent) —> 30 min
+* Présentation de l'initiative OpenLLM France 🇫🇷 (Michel-Marie) —> 10 min
+* Brainstorming autour de l'organisation de l'initiative (Pierre-Julien) —> 20 min
+* Intervenant d’un sachant au niveau Académique (à définir) —> 20 min
+* Proposition de Barcamp / Hackathon (Michel-Marie) —> 10 min : l'idée serait faire un vendredi-samedi-dimanche ou un jeudi-vendredi-samedi en mode hackathon pour disposer un 1 démonstrateur opérationnel à définir d'ici fin juillet
 
 🎟️  Inscrivez-vous dès maintenant via ce lien : https://www.eventbrite.fr/e/meetup-inaugural-de-la-communaute-openllm-france-tickets-662423335027?aff=oddtdtcreator
 
