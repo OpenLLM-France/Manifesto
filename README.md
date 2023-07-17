@@ -52,5 +52,4 @@ L’avenir de la France et de l’Europe se dessine aussi dans les lignes de cod
 
 ## Nous rejoindre sur Discord
 
-Pour poursuivre nos échanges, nous vous invitons à rejoindre le serveur :
-[![][https://dcbadge.vercel.app/api/server/hsp8BpRkY?compact=true&style=flat)](https://discord.gg/k2BQvGfjzA)(https://discord.gg/k2BQvGfjzA)
+Pour poursuivre nos échanges, nous vous invitons à rejoindre le serveur : https://discord.gg/k2BQvGfjzA
